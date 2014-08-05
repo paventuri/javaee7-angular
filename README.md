@@ -10,3 +10,5 @@
 
 * Start Wildfly and go to http://localhost:8080/javaee7-angular-1.0-SNAPSHOT/
 
+test
+
