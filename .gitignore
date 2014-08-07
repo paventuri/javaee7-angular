@@ -75,3 +75,9 @@ node_modules
 src/main/webapp/lib/bower
 temp
 build
+
+### Eclipse
+.classpath
+.project
+.settings/
+.tern-project
